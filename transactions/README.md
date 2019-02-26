@@ -1,1 +1,1 @@
-## `Wallets`
+## `Transactions`

@@ -1,0 +1,6 @@
+# github.com/blockcypher/gobcy v1.3.1
+github.com/blockcypher/gobcy
+# github.com/btcsuite/btcd v0.0.0-20190213025234-306aecffea32
+github.com/btcsuite/btcd/btcec
+# github.com/joho/godotenv v1.3.0
+github.com/joho/godotenv
